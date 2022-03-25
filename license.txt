@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rayman
+* source:	https://sketchfab.com/3d-models/rayman-1dba38766f3f413aadd74b0911cf4a04
+* author:	Jeffrey fan 2000 (https://sketchfab.com/8723516)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rayman" (https://sketchfab.com/3d-models/rayman-1dba38766f3f413aadd74b0911cf4a04) by Jeffrey fan 2000 (https://sketchfab.com/8723516) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
